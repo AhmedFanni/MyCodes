@@ -70,7 +70,7 @@
 /*Comment!: Read Pin Value */
 extern U8 DIO_U8ReadPinVal(U8 Copy_U8PinIdx, U8* Copy_U8PtrToVal);
 
-/*Comment!: Write Pin Vlaue */
+/*Comment!: Write Pin Value */
 extern U8 DIO_U8WritePinVal(U8 Copy_U8PinIdx, U8 Copy_U8PinVal);
 
 /*Comment!: Read Port Value */
