@@ -5,8 +5,8 @@
  *      Author: muslim
  */
 
-#ifndef DIO_PRIVATE_H_
-#define DIO_PRIVATE_H_
+#ifndef _DIO_PRIVATE_H_
+#define _DIO_PRIVATE_H_
 
 /*Comment!: Initialize PORTA Direction */
 #define DIO_U8PORTADIR Conc(DIO_U8PIN0_INITDIR, DIO_U8PIN1_INITDIR, DIO_U8PIN2_INITDIR,\
